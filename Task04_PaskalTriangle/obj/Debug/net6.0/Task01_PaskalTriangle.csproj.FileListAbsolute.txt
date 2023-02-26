@@ -1,0 +1,15 @@
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.csproj.AssemblyReference.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.AssemblyInfoInputs.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.AssemblyInfo.cs
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\bin\Debug\net6.0\Task01_PaskalTriangle.exe
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\bin\Debug\net6.0\Task01_PaskalTriangle.deps.json
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\bin\Debug\net6.0\Task01_PaskalTriangle.runtimeconfig.json
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\bin\Debug\net6.0\Task01_PaskalTriangle.dll
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\bin\Debug\net6.0\Task01_PaskalTriangle.pdb
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.dll
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\refint\Task01_PaskalTriangle.dll
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.pdb
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\Task01_PaskalTriangle.genruntimeconfig.cache
+C:\Users\Мах\Documents\gb\c#\HomeWork_Seminar8\Task04_PaskalTriangle\obj\Debug\net6.0\ref\Task01_PaskalTriangle.dll
